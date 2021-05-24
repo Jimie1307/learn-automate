@@ -1,0 +1,47 @@
+DISCLAIMER:
+Before this, there were 2 videos, about installing python and
+basic terminologies. I didn't take notes of it because it was simple.
+
+SECTION 1
+3.0 Writing Our First Program
+--> Just basic input, output. input= user's name&age, output= user's
+    name&age
+--> The lecturer made a joke on his age (he's old aww)
+--> Execution starts from the top and goes down
+--> Indentation. "Users can ignore the spaces", but tbh we all know,
+    identation must be taken care of, kan?
+--> Comment must explain what code is going/trying
+    to do.
+--> Explanation on basic commands and how to use:
+    print(), len(), str()
+--> Explanation about calling functions and what functions are
+    briefly. ELI5 style
+--> Thorough explanation on how code is compiled
+
+SECTION 2
+1.0 Flow Charts and Basic Flow Control Concepts
+--> Ahhhh yes, flow charts! Conditions. Decision-making.
+--> Representation of 'Yes/No' in coding: Boolean values, Comparison
+    operators and Boolean operators
+--> Truth tables~
+
+2.0 if, else, elif statements
+--> explanation on if statements; has a condition, and only executes code
+    if the condition is met
+--> else statement is executed when if statement is false
+--> elif statement: if else statement
+--> input() and how to use it in if else statement
+
+3.0 while loops
+--> while loop runs the code in its block over and over again until its condition is false
+--> the classic bug: infinite loop~~~
+--> break statements: immediately leave loop, without re-checking condition
+--> continue statements: execution immeidately jump back to the start of the
+    loop and re-check condition
+
+4.0 for loops
+--> runs a block code for a specific run of times
+--> range for loop function can be called with three arguments:
+    start values, end values, step argument
+--> step argument: number of variable increase/decrease after iteration
+--> can use -ve numbers
