@@ -1,6 +1,6 @@
-#Learning Automate the Boring Stuff with Python
+# Learning Automate the Boring Stuff with Python
 
-###<i><b>Introduction~</b></i>
+### <i><b>Introduction~</b></i>
 Hi! This is my journey of learning a Udemy course about automation. Reason for learning it is due to curiosity and I thought I can possibly apply it to future projects.
 For anyone that already learnt/currently learning CS or already is using/used python, then I would say, you can skip
 the basics. Although, it is good to refresh a bit, right? I'm currently a CS student and still in my degree so
@@ -10,8 +10,8 @@ it would take a bit time for me to finish it. Hopefully, I can finish it in time
 <center><p style="font-size: 15px; font-style: oblique;"> <b>Date started: 24/5/2021 <br>
 Expected date to end: 24/6/2021 (🎯)</b></p></center>
 
-###<i><b>Contents!</b></i>
-####<u>Side notes:</u>
+### <i><b>Contents!</b></i>
+#### <u>Side notes:</u>
 The course itself has 16 sections, with its own subtopics. I do not include the first two topics in my notes because
 it is basically an introduction. It shows how to install pyhton, IDLE vs file editor, yada yada..
 
