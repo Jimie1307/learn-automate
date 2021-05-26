@@ -34,7 +34,7 @@ it is basically an introduction. It shows how to install pyhton, IDLE vs file ed
     </tr>
     <tr>
         <th> 2.0<br>Flow Control</th>
-        <th> 1.0 <br> 2.0 <br> 3.0 <br> 4.0</th>
+        <th> 4.0 <br> 5.0 <br> 6.0 <br> 7.0</th>
         <th> Flow Charts & Basic Flow Control Concepts <br> if, else and elif statements <br>
         while loop <br> for loop </th>
         <th> ✅ </th>
@@ -42,29 +42,29 @@ it is basically an introduction. It shows how to install pyhton, IDLE vs file ed
     </tr>
     <tr>
         <th> 3.0<br> Function</th>
-        <th> 1.0 <br> 2.0 <br> 3.0 </th>
+        <th> 8.0 <br> 9.0 <br> 10.0 </th>
         <th> Built-in functions <br> Writing Own Functions <br> Global and Local Scopes </th>
-        <th> 🚗 </th>
-        <th>  </th>
+        <th> ✅ </th>
+        <th> 26/5/2021 </th>
     </tr>
     <tr>
         <th> 4.0<br> Handling errors with try/except</th>
-        <th>  </th>
-        <th>  </th>
-        <th> 🚗 </th>
-        <th>  </th>
+        <th> 11.0 </th>
+        <th> try and except statements </th>
+        <th> ✅ </th>
+        <th> 26/5/2021 </th>
     </tr>
     <tr>
         <th> 5.0 <br> Writing a complete program: Guess the number</th>
-        <th>  </th>
-        <th>  </th>
-        <th> 🚗 </th>
-        <th>  </th>
+        <th> 12.0  </th>
+        <th> Writing a "Guess the Number" Program </th>
+        <th> ✅ </th>
+        <th> 26/5/2021 </th>
     </tr>
     <tr>
         <th> 6.0 List</th>
-        <th>  </th>
-        <th>  </th>
+        <th> 13.0 <br> 14.0 <br> 15.0 <br> 16.0 </th>
+        <th>  The List data type <br> For loop with Lists, multiple Assignments, and Augmented Operators <br> List Methods <br> Similarities between Lists and Strings</th>
         <th> 🚗 </th>
         <th>  </th>
     </tr>

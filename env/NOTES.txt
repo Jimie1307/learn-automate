@@ -19,29 +19,78 @@ SECTION 1
 --> Thorough explanation on how code is compiled
 
 SECTION 2
-1.0 Flow Charts and Basic Flow Control Concepts
+4.0 Flow Charts and Basic Flow Control Concepts
 --> Ahhhh yes, flow charts! Conditions. Decision-making.
 --> Representation of 'Yes/No' in coding: Boolean values, Comparison
     operators and Boolean operators
 --> Truth tables~
 
-2.0 if, else, elif statements
+5.0 if, else, elif statements
 --> explanation on if statements; has a condition, and only executes code
     if the condition is met
 --> else statement is executed when if statement is false
 --> elif statement: if else statement
 --> input() and how to use it in if else statement
 
-3.0 while loops
+6.0 while loops
 --> while loop runs the code in its block over and over again until its condition is false
 --> the classic bug: infinite loop~~~
 --> break statements: immediately leave loop, without re-checking condition
 --> continue statements: execution immeidately jump back to the start of the
     loop and re-check condition
 
-4.0 for loops
+7.0 for loops
 --> runs a block code for a specific run of times
 --> range for loop function can be called with three arguments:
     start values, end values, step argument
 --> step argument: number of variable increase/decrease after iteration
 --> can use -ve numbers
+
+SECTION 3
+8.0 python's built-in functions
+--> to use a functiom, must import module using import statement:
+    1) import [module] (to add more than one, just separate modules using comma
+    2) from random import * (* means all)
+--> sys.exit() = stopping the program immediately
+--> Third-party modules: install using pip through terminal
+
+9.0 Write Own FUnctions
+--> Functions= mini program in the program
+--> Purpose of functions: to group code that gets executed multiple times
+--> Avoid duplicated code
+--> Explains arg in fucntions
+--> return statement: returns value prodied by function
+--> None values: Value that represents lack of a value
+--> Every function call has return value. None is simply being ignored
+    and does not being printed. So, functions that is void, has a return value of None.
+--> none is kinda like Boolean too. Written as 'None'
+--> Keyword arguments: used for optional arg to pass to a function call
+    --> can selit at functions after the needed args, but usually not needed
+
+10.0 Global and Local Scopes
+--> Local scope= variables that are assigned in the fucntion. Created when function is called
+    and destroyed when function returns its value
+--> Global scope= variables assigned outside function. created when program
+    starts and destroyed when program terminates
+--> can think it as a container for local and global variables
+--> variable cannot be both; either global or local
+--> a local variable can jus tbe called from a function without needing to pas through arguments:
+    --> python will check if te variable is global or not.
+        -->if the variable is not assigned in the function, then python detects it as global value.
+--> Global statement= assigns a value inside a function as global. Tells python to not make a local scope
+    of the variable
+--> Main reson for this: to make debugging easier. Help in separating bugs from the global
+    variables. Helps us know where to find the error (in which functions)
+
+SECTION 4
+11.0 try and Except statements
+--> to make the program continue working despite having an error. Error is displayed but
+    the program does not stop immediately (unless told to do so)
+--> Can also no write specific error on exception and leave it empty. It catches all errors
+--> For input validation~
+
+SECTION 5
+12.0 Writing a Complete Program
+--> Well....we wrote XD
+
+SECTION 6
